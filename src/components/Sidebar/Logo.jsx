@@ -14,7 +14,7 @@ export default function Logo({ isOpen }) {
 				className={`font-extrabold origin-left duration-100
 				text-brown-main text-3xl ${!isOpen && "opacity-0"}`}
 			>
-				Budgie
+				PennyWise
 			</h1>
 		</div>
 	);
