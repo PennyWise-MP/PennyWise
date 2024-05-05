@@ -1,4 +1,4 @@
-export const styleSidebar = `relative duration-300 bg-white
+export const styleSidebar = `relative duration-300 bg-gray-300
 	shadow-lg flex flex-col justify-between p-5`;
 
 export const styleToggler = `absolute cursor-pointer
