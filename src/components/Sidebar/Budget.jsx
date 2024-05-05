@@ -88,7 +88,7 @@ export default function Budget({ isOpen }) {
 							data-for="spendings"
 						>
 							{" "}
-							/ {budget} ₹/Rs
+							/ {budget} Rs
 						</span>
 						<ReactTooltip
 							id="spendings"
@@ -96,7 +96,7 @@ export default function Budget({ isOpen }) {
 							effect="solid"
 							className="font-bold"
 						>
-							You spent {spendings} ₹/Rs
+							You spent {spendings} Rs
 						</ReactTooltip>
 					</div>
 				</div>
@@ -114,7 +114,7 @@ export default function Budget({ isOpen }) {
 						effect="solid"
 						className="font-bold"
 					>
-						{remaining} / {budget} ₹/Rs
+						{remaining} / {budget} Rs
 					</ReactTooltip>
 				</>
 			)}

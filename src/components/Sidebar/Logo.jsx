@@ -12,7 +12,7 @@ export default function Logo({ isOpen }) {
 
 			<h1
 				className={`font-extrabold origin-left duration-100
-				text-brown-main text-3xl ${!isOpen && "opacity-0"}`}
+				text-grey-main text-3xl ${!isOpen && "opacity-0"}`}
 			>
 				PennyWise
 			</h1>
