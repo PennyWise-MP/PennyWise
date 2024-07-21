@@ -1,12 +1,20 @@
-## Budgie app
+PennyWise:
 
-Budgie app is a tool to track your expenses and analyze them, built with React and styled with Tailwind css.
 
-## Demo (Desktop only)
-[https://budgie.isawi.tech/](https://budgie-app-yusuflisawi.netlify.app/)
+PennyWise is a budget tracking website designed to help you manage your finances effortlessly. With PennyWise, you can:
 
----
-![Screen Shot 2024-02-17 at 11 41 27](https://github.com/YusufLisawi/Budgie/assets/90868691/32673deb-a3e2-4d7c-9418-25a1346e9265)
+-Enter and track your budget and expenses
+-View a complete history of your financial activities
+-See a graphical representation of your categorized expenses
+-Access a detailed table of your expenditures
+
+Stay on top of your finances and make informed decisions with PennyWise!
+
+![image](https://github.com/user-attachments/assets/f3c74bb8-4efb-46ee-90f1-8e611ba1836c)
+
+
+
+![image](https://github.com/user-attachments/assets/ad5d4048-1d34-4c6d-a64e-fe750c90f2da)
 
 
 
