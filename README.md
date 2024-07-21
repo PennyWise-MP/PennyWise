@@ -4,9 +4,13 @@ PennyWise:
 PennyWise is a budget tracking website designed to help you manage your finances effortlessly. With PennyWise, you can:
 
 -Enter and track your budget and expenses
+
 -View a complete history of your financial activities
+
 -See a graphical representation of your categorized expenses
+
 -Access a detailed table of your expenditures
+
 
 Stay on top of your finances and make informed decisions with PennyWise!
 
