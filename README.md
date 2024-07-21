@@ -1,5 +1,5 @@
 ```plaintext
-PennyWise:
+## PennyWise:
 ```
 
 PennyWise is a budget tracking website designed to help you manage your finances effortlessly. With PennyWise, you can:
